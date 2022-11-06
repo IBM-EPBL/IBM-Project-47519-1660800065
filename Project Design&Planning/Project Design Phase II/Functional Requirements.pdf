@@ -1,0 +1,30 @@
+Project Design Phase-II
+Solution Requirements (Functional & Non-functional)
+
+Date	21 October 2022
+Team ID	PNT2022TMID47888
+Project Name	Project - Fertilizers Recommendation System For Disease Prediction
+Maximum Marks	4 Marks
+
+Functional Requirements:
+Following are the functional requirements of the proposed solution.
+FR No.	Functional Requirement (Epic)	Sub Requirement (Story / Sub-Task)
+FR-1	User Registration	Registration through Form
+Registration through Gmail
+Registration through LinkedIN
+FR-2	User Confirmation	Confirmation via Email
+Confirmation via OTP
+FR-3	 User Communication 	Upload Sample of crop,Query Section 
+FR-4	Solution 	Recommend the Accurate and Efficient Fertilizers for the sample
+
+
+Non-functional Requirements:
+Following are the non-functional requirements of the proposed solution.
+FR No.	Non-Functional Requirement	Description
+NFR-1	Usability	Easy to use,Mostly Used 
+NFR-2	Security	Trusted and More Securable,Authorized person are allowed to use. 
+NFR-3	Reliability	Less Reliable
+NFR-4	Performance	High Performance Without any Blocks. 
+NFR-5	Availability	24*7 Available
+NFR-6	Scalability	The system is scalable enough to support 1,000,000 visits at the same time while maintaining opti
+mal performance
